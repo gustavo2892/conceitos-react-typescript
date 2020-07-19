@@ -10,6 +10,9 @@ Nesse nível foi criada uma demonstração de uma aplicação. Os principais con
 
 - Componentização.
 - Estado e Imutabilidade.
+- Padrão de código utilizando as ferramentas ESLint e Prettier.
+- Utilização do styled-components, tanto global quanto para um componente em específico.
+- Axios para utilização de API.
 
 ### Tech Stack
 
